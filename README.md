@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyễn Ngọc Lân
-* Student ID: Ba12-104
+* Student Name: Trần Thế Bảo
+* Student ID: Ba12-020
 * Student Group ID: Not-for-now
