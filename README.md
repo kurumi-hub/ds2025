@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Trần Thế Bảo
 * Student ID: Ba12-020
-* Student Group ID: Not-for-now
+* Student Group ID: 11
